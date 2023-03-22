@@ -34,7 +34,7 @@ public class LuceneServiceImpl implements LuceneService {
         Field bookId = new StringField("bookId", book.getBookId(), Field.Store.YES);
         Field bookName = new StringField("bookName", book.getBookName(), Field.Store.YES);
         Field bookAuthor = new StringField("bookAuthor", book.getBookAuthor(), Field.Store.YES);
-        Field bookContent = new TextField("bookContent", book.getBookContent(), Field.Store.NO);
+        Field bookContent = new TextField("bookContent", book.getBookContent(), Field.Store.YES);
 
         document.add(bookId);
         document.add(bookName);
