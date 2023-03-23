@@ -22,7 +22,7 @@ public class SearchIndexTest {
         Analyzer analyzer = new IKAnalyzer();
         QueryParser parser = new QueryParser("bookContent", analyzer);
 
-        Query query = parser.parse("网络");
+        Query query = parser.parse("逃亡");
 
         File indexFile = new File("src/main/resources/index");
         Directory directory = FSDirectory.open(indexFile.toPath());
@@ -53,6 +53,7 @@ public class SearchIndexTest {
             System.out.println("ID：" + doc.get("bookId"));
             System.out.println("名称：" + doc.get("bookName"));
             System.out.println("作者：" + doc.get("bookAuthor"));
+            System.out.println(scoreDoc.score);
 //            System.out.println("内容：" + bookContent);
             System.out.println("==========================");
             if (bookContent != null) {

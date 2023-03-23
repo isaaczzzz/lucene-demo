@@ -4,14 +4,42 @@ import lucenedemo.entity.Book;
 import lucenedemo.service.impl.LuceneServiceImpl;
 import org.junit.jupiter.api.Test;
 
+import java.io.*;
+
 public class CreateIndexTest {
     @Test
     void testCreateIndex() throws Exception {
         Book book = new Book();
-        book.setBookId("142");
-        book.setBookName("Python网络编程");
-        book.setBookAuthor("John Goerzen");
-        book.setBookContent("本书针对想要深入理解使用Python来解决网络相关问题或是构建网络应用程序的技术人员，结合实例讲解了网络协议、网络数据及错误、电子邮件、服务器架构和HTTP及Web应用程序等经典话题。具体内容包括：全面介绍Python3中最新提供的SSL支持，异步I/O循环的编写，用Flask框架在Python代码中配置URL，跨站脚本以及跨站请求伪造攻击网站的原理及保护方法，等等。");
+        book.setBookId("232");
+        book.setBookName("数据通信与网络（英文版·第5版）");
+        book.setBookAuthor("Behrouz A.Forouzan");
+        book.setBookContent("本书延续了Forouzan一贯的风格，以通俗易懂的方式全面阐述了网络技术及其应用。本书自第1版引进国内以来，对网络课程教学产生了较大影响，被多所名校采用为教材。 本书以因特网五层模型为框架，以形象直观的描述手法，详细地介绍了数据通信和网络领域的基础知识、基本概念、基本原理和实践方法，堪称数据通信和网络方面的经典著作。虽然本版仍由七个部分组成，但是作者对书中的内容做了全面的更新和修订，调整了章节顺序，合并、挪动和新增了一些章节，删减了一些过时的主题。");
+        LuceneServiceImpl luceneService = new LuceneServiceImpl();
+        luceneService.createIndex(book);
+    }
+    @Test
+    void createIndexByFile() throws Exception {
+        Book book = new Book();
+        String fileName = "src/main/resources/files/test.txt";
+        File file = new File(fileName);
+        FileInputStream fis = new FileInputStream(file);
+        InputStreamReader isr = new InputStreamReader(fis);
+        BufferedReader br = new BufferedReader(isr);
+        String id;
+        String name;
+        String author;
+        StringBuilder content = new StringBuilder();
+        String line;
+        id = br.readLine();
+        name = br.readLine();
+        author = br.readLine();
+        while((line = br.readLine()) != null) {
+            content.append(line);
+        }
+        book.setBookId(id);
+        book.setBookAuthor(author);
+        book.setBookName(name);
+        book.setBookContent(content.toString());
         LuceneServiceImpl luceneService = new LuceneServiceImpl();
         luceneService.createIndex(book);
     }
