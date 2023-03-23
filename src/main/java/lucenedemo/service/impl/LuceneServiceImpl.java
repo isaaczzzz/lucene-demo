@@ -1,7 +1,9 @@
 package lucenedemo.service.impl;
 
 import lucenedemo.entity.Book;
+import lucenedemo.entity.Book2;
 import lucenedemo.entity.LuceneBook;
+import lucenedemo.entity.Page;
 import lucenedemo.service.LuceneService;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.document.Document;
@@ -36,6 +38,7 @@ public class LuceneServiceImpl implements LuceneService {
         Field bookAuthor = new StringField("bookAuthor", book.getBookAuthor(), Field.Store.YES);
         Field bookContent = new TextField("bookContent", book.getBookContent(), Field.Store.YES);
 
+
         document.add(bookId);
         document.add(bookName);
         document.add(bookAuthor);
@@ -52,4 +55,34 @@ public class LuceneServiceImpl implements LuceneService {
 
         writer.close();
     }
+
+    @Override
+    public void createIndex2(Page page) throws Exception {
+        Document document = new Document();
+        Field bookId = new StringField("bookId", page.getBookId(), Field.Store.YES);
+        Field bookName = new StringField("bookName", page.getBookName(), Field.Store.YES);
+        Field bookContent = new TextField("bookContent", page.getContent(), Field.Store.YES);
+
+        Field pageNum = new StringField("pageNum", String.valueOf(page.getPageNum()), Field.Store.YES);
+
+
+        document.add(bookId);
+        document.add(bookName);
+        document.add(bookContent);
+        document.add(pageNum);
+
+        Analyzer analyzer = new IKAnalyzer();
+
+        IndexWriterConfig config = new IndexWriterConfig(analyzer);
+        File indexFile = new File("src/main/resources/index");
+        Directory directory = FSDirectory.open(indexFile.toPath());
+        IndexWriter writer = new IndexWriter(directory, config);
+
+        writer.addDocument(document);
+
+        writer.close();
+
+    }
+
+
 }
