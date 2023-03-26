@@ -1,0 +1,98 @@
+genome wide. Indeed, early studies pointed to an overall
+decrease in the 5-methylcytosine content of cancer
+genomes (Feinberg and Tycko, 2004; Riggs and Jones,
+1983).The hypermethylation consistently observed in
+CpG islands therefore represents a change in 5-methylcytosine distribution across the genome rather than an
+overall increase in the total amount of methylation. Interestingly, it has recently been found that large stretches
+of DNA can become abnormally methylated in cancer
+(Frigola et al,, 2006),
+
+Thechangesin CpG-island methylation in single tumors
+can involve a group of loci and has been hypothesized to
+constitute a distinct phenotype, first proposed by Toyota
+et al. (1999) as the¡°CpG island methylator phenotype¡°
+or CIMP. The existence of CIMP has been challenged
+(Yamashita et al.,, 2003), but recent studies by Weisenberger et al. (2006) showing that a subset of CpG islands
+is coordinately methylated in tumors argues, in our opinion, for the reality of such a phenotype. As will be discussed later, it is intriguing that many of these CIMP loci
+are targets for polycomb group proteins (Widschwendter
+et al,, 2007),
+
+Surprising results have also been obtained with respect
+togenome-widechanges in histone modifications. Loss of
+acetylation at lysine 16 and trimethylation at I|ysine 20 of
+histone H4 isacommon hallmark of human cancer (Fraga
+etal., 2005),and global histone modification patterns predict the risk of prostate cancer recurrence (Seligson et al.,
+2005). Otherevidence forglobal changes being involved in
+carcinogenesis come from studies in the polycomb group
+gene family, which is highly conserved throughout evolution (Valk-Lingbeek et al., 2004). The polycomb repressor
+complex 2 (PRC2) is involved in the initiation of silencing
+and contains histone methyltransferases that can methyl|ate histone H3 Iysine 9 and 27, which are marks of silenced chromatin. The significance of these findings wil
+be discussed later. The polycomb gene BMI1, a component of PRC1, is overexpressed in several human cancers
+sothatitmight be expected that aberrations in this system
+would give rise to global alterations in gene silencing in
+cancer (Valk-Lingbeek et al., 2004),
+
+Iltiswellknownthat certain transcription factors such as
+cC-Myc do not bind to their recognition seqguences in the
+methylated condition, suggesting that CpG methylation
+may affectthe ability of Myc to bind to multiple sites within
+the genome. Given that Myc can influence chromatin
+structure (Knoepfler et al., 2006), it is certainly plausible
+that inappropriate methylation of its recognition sites
+could have profound implications on the cancer epigenome. Perhaps more attention should be paid in the future
+to methylation of such genomic regions.
+
+Given the linkage between processes that regulate epigenetic silencing, it should not be surprising that such
+changes are observed onagenome-wide scale (Figure 1),
+Forexample, DNAmethylation and histone acetylation are
+knownto be intimately linked,so that global hypomethylation might be expected to lead to global alterations in the
+level of histone acetylation and vice versa. These rapidly
+
+emerging data strongly indicate that the entire epigenome
+is fundamentally disturbed in cancer development. While
+the focus on research until recently has been on silencing,more attention is now being paid to the possibility
+that these genome-wide changes in the structure of the
+epigenome can lead to the genomic instability, that is
+a hallmark of cancer (Cadieux et al., 2006),
+
+Aberrant Gene Silencing during Early Neoplastic
+Progression
+
+A key to understanding the contributions of aberrant epigenetic gene silencing to cancer has been to consider
+these in the context of their timing in cancer progression
+just as has been done for genetic changes. Recent reviews (Baylin and Ohm, 2006; Feinberg et al,, 2006) have
+emphasized that epigenetic abnormalities might play
+a seminal role in the earliest steps in cancer initiation.
+Abnormal gene imprinting andyor silencing may help push
+the early aberrant clonal expansion of cells,providing
+a¡°substrate¡°for risk of subsedguent genetic and epigenetic alterations that further foster tumor progression
+(Baylin and Ohm, 2006; Feinberg et al., 2006). This concept is shown for colon cancer in Figure 2, in which risk
+factors for common cancers such as aging (Sharpless
+and DePinho,2005) and inflammation (Coussens and
+Werb, 2002; Lu et al., 2006; Nelson et al., 2004) are depicted as causing such expansions in either normal colon
+epithelial stem cells or precursor cells derived from them
+A series of genes, all documented to exhibit DNA hypermethylation in preinvasive stages of colon and other cancers, but which are rarely mutated in such cancers, are
+shown and referred to as¡°epigenetic gatekeepers.¡°|n
+other words, the normal epigenetic modulation of these
+genes allows them to prevent stem/precursor cells from
+becoming immortalized and acquiring infinite cell renewal
+capacity during periods of chronic stresses and renewal
+pressures on cell systems. It also allows these genes to
+be activated,as needed, whenstem/precursor cells differentiate. The inappropriate silencing ofthese genes blocks
+theiractivation and allows forabnormal survival and clonal
+expansion and prevents differentiation. Depicted also are
+genes such as in APC or 6-catepnin involved as genetic
+gatekeepers for colon cancer,since mutations foster
+abnormal activation of the developmental Wnt pathway,
+which playsacanonical role indriving colontumorigenesis
+throughoutthe life history ofthesetumors.Inthe paradigm
+shown,broaching of the epigenetic gatekeeper steps
+allows cell expansion and time for the genetic gatekeeper
+mutations to appear and even to undergo selection because the cells are now¡°addicted¡° to Wnt pathway activation (Baylin and Ohm, 2006),.
+
+Howmightlossoffunction forthe epigenetic gatekeeper
+genes actually foster early abnormal clonal expansion? As
+shown in Figure 2, Wnt pathway activation may be a striking example where epigenetic events can play important
+roles. First, APC,the classically mutated genetic gatekeeper gene in colon cancer leading to Wnt pathway activation (Kinzlerand Vogelstein, 1996),can be inactivated in
+
+Cell 128, 683-692, February 23, 2007 @2007 Elsevier Inc.¡£ 685

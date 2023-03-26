@@ -1,0 +1,84 @@
+Leading Edge
+
+The Epigenomics of Cancer
+
+Peter A. Jonesr¡¸* and Stephen B. Baylin¡°*
+
+¡°Department of Urology, Biochemistry, and Molecular Biology, USC/Norris Comprehensive Cancer Center,
+Keck School of Medicine, University of Southern California, Los Angeles, CA 90089, USA
+^Cancer Biology Program, The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins Medical Institutions, Baltimore,
+
+MD 21231, USA
+
+*Correspondence: jones_p@ccnt.usc.edu (P.A.J.j), sbaylin@jhmiedu (S.B.B.)
+
+DOI 10.1016/j.cell.2007.01.029
+
+Aberrant gene function and altered patterns of gene expression are key features of cancer.
+Growing evidence shows that acquired epigenetic abnormalities participate with genetic
+alterations to cause this dysregulation. Here, we review recent advances in understanding
+how epigenetic alterations participate in the earliest stages of neoplasia, including stemy
+precursor cell contributions, and discuss the growing implications of these advances for
+
+strategies to control cancer.
+
+For decades, scientists have been engaged in dissecting
+the origins of human cancer, and the relative roles of genetic versus epigenetic abnormalities have been hotly
+debated. An explosion of data indicating the importance
+of epigenetic processes, especially those resulting in the
+silencing of key regulatory genes, has led to the realization
+that genetics and epigenetics cooperate at all stages of
+cancerdevelopment. Recent advances include the understanding that silencing is part of global epigenomic alterations in cancer,that pathways relevant to stem cell
+growth and differentiation become altered,and the
+approval ofthree drugs that target these defects in cancer
+patients.
+
+Gene Silencing and Cancer
+
+Epigenetics is defined as heritable changes in gene expression that are not accompanied by changes in DNA
+sequence. Gene silencing at the levelofchromatin is neCcessary for the life of eukaryotic organisms and is particularly important in orchestrating key biological processes,
+including differentiation, imprinting, and silencing of large
+chromosomal domains such as the X chromosome, over
+the life span offemalemammals. In many species, silencing can be initiated and maintained solely by processes
+involving the covalent modifications of histones and other
+chromatin components. Vertebrates, however,have taken
+advantage of the heritability of DNA cytosine methylation patterns to add another layer of control to these
+processes.
+
+Like most biological processes, silencing can become
+dysregulated,resulting in the development of disease
+states. It can also result in the acquired inactivation of
+genes during normal aging. A key property of silencing is
+that it can spread over genomic regions in a progressive
+way, as perhaps bestexemplified by position-effect variegation in Drosophila.Iltseems to involve the cooperation of
+multiple processes, including noncoding RNAs, covalent
+modifications of chromatin, physical alterations in nucleosomal positioning, and DNA methylation, among others.
+
+Ilt must be appreciated, as we will outline, that epigenetic abnormalities in cancer comprise a multitude of
+aberrations in virtually every component of chromatin involved in packaging the human genome. Since epigenetic
+silencing processes are mitotically heritable,they can play
+thesame roles and undergo the same selective processes
+as genetic alterations in the development of a cancer. A
+principal tenet of Darwin¡¸s hypotheses for the evolution
+ofspeciesisthat mostgermline mutations are deleterious,
+or of no functional significance; mutations give rise to
+a specific advantage selected for in an evolving population. These same selective concepts apply for epigenetic
+events, which can occur at a much more increased rate
+compared to mutations in somatic cells. Alterations in
+gene expression induced by epigenetic events,which
+give rise to a cellular growth advantage, are therefore selected forinthe hostorgan,resulting inthe progressive uncontrolled growth ofthetumor. This does not mean that all
+silenced genes play direct roles,since itis becoming clear,
+as we will discuss later, that whole groups of genes may
+be inactivated as part of an abnormal¡°¡°program.¡°Epigenetic changes can collaborate with genetic changes to
+cause the evolution of a cancer because they are mitotically heritable. The high degree of mitotic stablility of silencing coupled with the progressive nature by which it
+is achieved makes pathological silencing of growth controlling and other genes an essential part of the development of a human cancer.
+
+The Importance of Chromatin Remodeling
+
+Muchisnow knownaboutthe importance of promoter cytosine methylation in CpG islands and gene silencing, and
+it has been established beyond doubt that such methylation is intimately involved in cancer development. As discussed later,many hundreds of genes may be inactivated
+in a single cancer by promoter methylation. In general
+methylated CpG islands are not capable of the initiation
+oftranscription unless the methylation signal can be overridden by alterations in factors that modulate chromatin,
+
+Cell 128, 683-692, February 23, 2007 @2007 Elsevier Inc.¡£ 683

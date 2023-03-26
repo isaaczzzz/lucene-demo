@@ -1,0 +1,105 @@
+such as removal of methylated cytosine binding proteins
+(Bakker et al., 2002) or the deacetylase,SIRT1 (Pruitt
+et al., 2006),
+
+The driving force in DNA methylation research, particularly as itrelatestocancer,has, untilnow, been particularly
+focused on CpG island promoter methylation. However, it
+remains true that about 409%6 ofhuman genes do not contain bona fide CpG islands in their promoters (Takai and
+Jones, 2002). The reason for the focus on islands is because ofthe demonstrable ability of CpG-island promoter
+methylationto permanently silence genes both physiologically and pathologically in mammalian cells. The role of
+methylationin non-CpG island promoters has been largely
+overlooked because the mechanistic links have not been
+sowelldemonstrated. Recent work has shown strong correlations between tissue-specific expression and methylation of non-CpG islands, including,for example, the
+maspin gene (Futscher et al., 2002). Maspin has a CpG
+rich promoter that does not meet established criteria for
+a CpG island (Takai and Jones, 2002). There are other examples of genes, such as the MAGE gene family, that are
+commonly upregulated by epigenetictherapy in which the
+promoters do not satisfy recognized criteria for¡°islandness.¡°¡¸ Indeed,recent DNAmethylation profiling of human
+chromosomes 6, 20, and 22 has shown that 179%6 of 873
+analyzed genes are differentially methylated and that
+about a third of these show inverse correlations between
+methylation and transcription (Eckhardtetal., 2006). While
+it has not been rigorously established that cytosine methylation in such promoters causally blocks transcription, it
+is also true that this possibility has not been excluded.
+There is clearly room for more work on the CpG poor
+genes in which cytosine methylation could also play
+a role in normal development as well as in cancer.
+
+The importance of DNA methylation in cancer has been
+established (Jones and Baylin,2002; Jones and Laird,
+1999),, and the focus in the field is changing to include
+the mechanisms by which other chromatin modifications
+play a role in cancer development (Figure 1). Foremost
+among these are the covalent modifications of histones
+that can control gene activity. For example, histone deacetylation and methylation of specific I|ysine residues
+such as lysine 9 in histone H3 or lysine 27 in histone H3
+clearly participate in the silencing of genes (Jenuwein,
+2006; see also the Review by B. Li et al., page 707 in
+this issue),
+
+Akey link betweenthese covalent histone modifications
+and DNA methylation was established by the pioneering
+experiments of Nan et al. (1998) and Jones et al. (1998)
+whoshowedthat cytosine methylation could attractmethylated DNA binding proteins and histone deacetylases to
+methylated CpG islands during chromatin compaction
+and gene silencing. More recently, howevern, the link between covalent histone modifications and nucleosomal
+remodeling is increasingly being explored. Zhang et al
+(1999) showed that DNA methylation binding protein
+(MBD2) interacts with the nucleosomal remodeling complex (NuRD) and directs the complex to methylate DNA.
+
+684 ¡°_Cell 128, 683-~-692, February 23, 2007 @2007 EIlsevier InC.
+
+DNA
+methylation
+
+¡¸
+
+Gene silencing
+
+HDACs
+/ \ HM 1s
+Histone
+modifications
+
+N URFS
+
+Nucleosome
+remodeling
+
+Figure 1. Gene Silencing in Normal Cells
+
+Heritable gene silencing involves, among other processes, the interplay between DNA methylation, histone covalent modifications, and
+nucleosomal remodeling. Some of the enzymes that contribute to
+these modifications include DNA methyltransferase (DNMTs), histone
+deacetylases (HDACs), histone methyltransferases (HMTs), and complex nucleosomal remodeling factors (NURFs). The interplay between
+these processes establishes a heritable repressive state at the start
+site of genes resulting in gene silencing. Physiologically, silencing is
+critical for development and differentiation. Pathologically, silencing
+leads to diseases such as cancer. Recent evidence suggests global
+changes in allthree processes in cancer, perhaps reflecting their interrelationships.
+
+Harikrishnan et al. (2005) showed that Brahma (Brm),
+which is a catalytic component of the SWIMSNF chromatin-remodeling complex, associates with the methylated
+DNA binding protein MeCP2. These experiments provide
+a potential link between DNA methylation and chromatin
+silencing. Very recent studies have shown that covalent
+modifications of histones couple these processes with
+chromatin remodeling by ATP-dependent remodeling
+machines (Li et al., 2006; Wysocka et al., 2006). This has
+led to the realization thatthe three processes of DNA cytosine methylation, histone modification, and nucleosomal
+remodeling are intimately linked and that alterations in
+these processes result in the permanent silencing of
+cancer-relevant genes (Figure 1),
+
+The fact that nucleosomal remodeling is a key componenttothe epigenetic silencing in cancer has been known
+forsome time.Ithas beendirectly shownthat mutations in
+the SWIMSNF complex play causative roles in the development of certain kinds of human cancer. Mutations in the
+SNF5 gene stimulate cell-cycle progression and cooperate with p53 loss in oncogenic transformation, and they
+are also associated with inactivation of the p21 and bp16
+pathways (Chai et al., 2005; Roberts and Orkin,2004),
+Once again,these changes may in fact be quite extensive
+in the epigenome.
+
+Global Changes in the Cancer Epigenome
+
+The occurrence of localized changes in chromatin structure at transcriptional start sites has been well appreciated; however, it is now emerging that the alterations are

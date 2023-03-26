@@ -1,0 +1,28 @@
+Strategies for epigenetic therapy
+PRIMARY
+SECONDARY
+OUTCOME
+OUTCOME
+TREATMENT
+TREATMENT
+HDACI
+021
+Tumor
+stasis
+p16/p15
+DNMTi
+MLH1
+Chemotherapy
+Apoptosis
+Tumor antigen
+Immunotherapy
+Act synergistically
+DNMTi + HDACi
+MicroRNAs
+Oncogenes
+Cancer stem
+Chemotherapy
+Debulk tumor
+DNMTi
+Cells
+differentiate

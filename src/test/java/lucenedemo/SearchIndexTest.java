@@ -29,7 +29,7 @@ public class SearchIndexTest {
         Analyzer analyzer = new IKAnalyzer();
         QueryParser parser = new QueryParser("bookContent", analyzer);
 
-        Query query = parser.parse("需要集中");
+        Query query = parser.parse("epigenetic");
 
         File indexFile = new File("src/main/resources/index");
         Directory directory = FSDirectory.open(indexFile.toPath());
@@ -102,7 +102,7 @@ public class SearchIndexTest {
                     results.put(bookId, result);
                 }
             }
-
+            System.out.println("==========================");
         }
 
 
@@ -121,10 +121,10 @@ public class SearchIndexTest {
             System.out.println("bookId: "+result.getPages().get(0).getBookId());
             System.out.println("score: "+result.getScore());
             for (Page page : result.getPages()) {
-                System.out.println("pageNum: "+page.getPageNum());
-                System.out.println("score: "+page.getScore());
+                System.out.println("    pageNum: "+page.getPageNum());
+                System.out.println("    score: "+page.getScore());
             }
-            System.out.println("=========");
+            System.out.println("==========================");
         }
         reader.close();
         long end = System.currentTimeMillis();

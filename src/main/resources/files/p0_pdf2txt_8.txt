@@ -1,0 +1,144 @@
+Guarente, L. (2000). Sir2 links chromatin silencing,metabolism, and
+aging. Genes Dev. 14, 1021-1026.
+
+Hanahan, D.,and Weinberg, R.A. (2000). The hallmarks of cancer. Cell
+100, 57-70:.
+
+Harikrishnan,K.N., Chow, M.Z., Baker, E.K., Pal, S., Bassal, S., Brasacchio, D.,, Wang, L.,, Craig, Ð¡ M., Jones, P.L., Sif, S., and EI-Osta,
+A. (2005). Brahma links the SWMSNF chromatin-remodeling complex
+with MeCP2-dependent transcriptional silencing.¡¢Nat:Genet.37,
+254-~-264.
+
+Janzen,V., Forkert, R., Fleming, H.E., Saito,Y., Waring, M.T.,, Dombkowski, D.M., Cheng, T.,, DePinho, R.A., Sharpless, N.E., and Scadden, D.T. (2006). Stem-cell ageing modified by the cyclin-dependent
+kinase inhibitor p16INK4a. Nature 443, 421-~426.
+
+Jenuwein, T. (2006). The epigenetic magic of histone lysine methylation. FEBS J 273, 3121-~3135.
+
+Jones, P.A., and Taylor, S.M. (1980). Cellular differentiation, cytidine
+analogs and DNA methylation. Cel| 20, 85-93.
+
+Jones, P.A.,and Laird, P.W. (1999). Cancer epigenetics comes of age.
+Nat. Genet. 217, 163-~167.
+
+Jones, P.A., and Baylin, S.B. (2002). The fundamental role of epigenetic events in cancer. Nat. Rev. Genet. 3, 415-428.
+
+Jones, P.L.,Veenstra, GJ,Wade,P.A.,Vermaak,D.,KasSs,S.U.,
+Landsberger, N,, Strouboulis, J,, and Wolffe, A.P. (1998). Methylated
+DNA and MeCP2 recruit histone deacetylase to repress transcription.
+Nat. Genet. 19, 187-~191.
+
+Karpf,A.R.,Peterson,P.W.,Rawlins, JT.,Dalley,B.K.,Yang,Q.,
+Albertsen, H.,and Jones, D.A. (1999). Inhibition ofDNAmethyltransferase stimulates the expression of signal transducer and activator of
+transcription , 2, and 3 genes in colon tumor cells. Proc. Natl. Acad .
+Sci. USA 96, 14007-~14012.
+
+Kimura, A., Umehara, T,and Horikoshi,M. (2002).Chromosomal
+gradient of histone acetylation established by Sas2p and Sir2p functions as a shield against gene silencing. Nat. Genet. 32, 370-377.
+
+Kinzler, K.W.,and Vogelstein, B. (1996). Lessons from hereditary colorectal cancer. Cell 87, 159-~170.
+
+Kiyono, T, Foster, S.A,, Koop, J.l, McDougallh J.K.,, Galloway, D.A.,
+and Klingelhutz,AJ¡¢(1998),¡¢Both Rb/p16INK4a inactivation and
+telomerase activity are required to immortalize human epithelial cells.
+Nature 396, 84-~88.
+
+Knoepfler, P.S., Zhang, X.Y., Cheng, P.F., Gafken, P.R., McMahon,
+S.B., and Eisenman,R.N. (2006). Myc influences global chromatin
+structure. EMBO J 25, 2723-~2734.
+
+Krishnamurthy, J, Ramsey,M.R., Ligon,K.L., Torrice,C.,Koh, A.,
+Bonner-Weir, S., and SharplesSs, N.E. (2006). p16INK4a induces an
+age-dependent decline in islet regenerative potential.Nature 443,
+453-~457.
+
+Kuzmichev,A.u,Margueron, R.,Vaquero, A., Preissner,T.S., Scher, M.,
+Kirmizis, A., Ouyang, X.,, Brockdorff, N.,, Abate-Shen, C., Farnham, P.,
+and Reinberg, D. (2005). Composition and histone substrates of polycomb repressive group complexes change during cellular differentiation. Proc. Natl. Acad. Sci. USA 102, 1859-~1864.
+
+Laverriere,A.C., MacNeil C., Mueller,C., Poelmann, R.E., Burch,J.B.,
+and Evans, T. (1994). GATA-4/5/6, a subfamily of three transcription
+factors transcribed in developing heart and gut. J Biol. Chem. 269,
+23177-~23184.
+
+Lee, T.|,Jenner,R.G.,Boyer, L.A.,Guenther,M.G.,Levine,S.S.,
+Kumar, R.M., Chevalier, B., Johnstone, S.E:,Cole,M.F., ISono,K.,
+et al. (2006). Control of developmental regulators by Polycomb in
+human embryonic stem cells. Cell 125, 301-313.
+
+Lib, H., in, S., Wang, W., Duncan, E.M., Wysocka, J., Allis, C.D.,, and
+Patel, D.J. (2006). Molecular basis for site-specific read-out of histone
+H3K4me3 by the BPTF PHD finger of NURF. Nature 442, 91-95.
+
+Liang, G., Gonzales, F.A.,, Jones, P.A., Orntoft, T.F., and Thykjaer, T
+(2002). Analysis of gene induction in human fibroblasts and bladder
+cancer cells exposed to the methylation inhibitor 5-aza-2¡¸-deoxycytidine. Cancer Res. 62, 961-~966.
+
+Lu,H.,Ouyang, W.,and Huang, C. (2006). Inflammation,a key event in
+cancer development. Mol. Cancer Res. 4, 221-233.
+
+Marks,P.,,Rifkind, R.A.,Richon,V.M., Breslow,R., Miller, T., and Kelly,
+W.K. (2001). Histone deacetylases and cancer: causes and therapies:.
+Nat. Rev. Cancer , 194-~202.
+
+McDermott,K.M.,Zhang,J., Holst, C.R., Kozakiewicz, B.K., Singla, V.,
+and Tlsty, T.D. (2006). p16(INK4a) prevents centrosome dysfunction
+and genomic instability in primary cells. PLoS Biol. 4, e51.
+
+McGarvey, K.M., Fahrner, J.A., Greene, E., Martens, J., Jenuwein, T.,
+and Baylin, S.B. (2006). Silenced tumor suppressor genes reactivated
+by DNA demethylation do not return to a fully euchromatic chromatin
+state. Cancer Res. 66, 3541-~3549.
+
+Minuccib, S., and Pelicci, P.G. (2006). Histone deacetylase inhibitors
+and the promise of epigenetic (and more) treatments for cancer. Nat.
+Rev. Cancer 6, 38-51.
+
+Molkentin,J.D.,Lin,Q.,Duncan, S.A.,,and Olson, E.N. (1997). Requirement of the transcription factor GATA4 for heart tube formation and
+ventral morphogenesis. Genes Dev. 11, 1061-1072.
+
+Molofsky, A.V., SlIlutsky, S.G., Joseph, N.M., He, S.,, Pardal, R., Krishnamurthy, J,, Sharpless, N.E.,, and Morrison, S.J. (2006). Increasing
+p16INK4a expression decreases forebrain progenitors and neurogenesis during ageing. Nature 443, 448-452.
+
+Nan, X.,, Ng, H.H., Johnson, C.A.J, Laherty, C.D., Turner, B.M., Eisenman,R.N.,and Bird, A.(1998). Transcriptional repression by the
+methyl-CpG-binding protein MeCP2 involves a histone deacetylase
+complex. Nature 393, 386-389.
+
+Nelson,W.G.,De Marzo,A.M.,DeWeese, T.L.,and IlsaacSs,W.B.
+(2004). The role of inflammation in the pathogenesis of prostate cancer. J Urol. I72, S6-~-S12.
+
+Orlando,V. (2003). Polycomb, epigenomes, and control of cellidentity.
+Cell 112, 599-~606.
+
+Pirrotta,V., and Gross, D.S. (2005). Epigenetic silencing mechanisms
+in budding yeast and fruit fly: different paths, same destinations.
+Mol. Cell 18, 395-398.
+
+Pruitt, K., Zinn,R.L., Ohm,J.E., McGarvey, K.M., Kang, S.H., Watkins,
+D.N.,, Herman,J.G., and Baylin, 3.B. (2006). Inhibition of SIRT1 reactivates silenced cancer genes without loss of promoter DNA hypermethylation. PLoS Genet. 2, e40.
+
+Reynolds, P.A., Sigaroudinia, M., Zardo, G.,Wilson, M.B.,Benton,
+G.M.,Miller,CJ., Hong,C., Fridlyand, J,Costello, J.F., and Tlsty,
+T.D. (2006). Tumor suppressor p16INK4A regulates polycomb-mediated DNA hypermethylation in human mammary epithelial cells.
+J Biol. Chem. 281, 24790-~-24802.
+
+Riggs, A.D.,, and Jones, P.A. (1983). 5-methylcytosine, gene regulation, and cancer. Adv. Cancer Res. 40, 1-30.
+
+Ringrose, L., and Paro, R. (2004).Epigenetic regulation of cellular
+memory by the Polycomb and Trithorax group proteins. Annu. Rev.
+Genet. 38, 413-~443.
+
+Roberts, C.W., and Orkin, S.H. (2004). The SWIMSNF complex-chromatin and cancer. Nat. Rev. Cancer 4, 133-~142.
+
+Saito,}Y.,Liang, G., Egger,G.,Friedman,J.M., Chuang,,J.C., Coetzee,
+G.A.,and Jones, P.A.(2006). Specific activation ofmicroRNA-127 with
+downregulation of the proto-oncogene BCL6 by chromatin-modifying
+drugs in human cancer cells. Cancer Cell 9, 435-443.
+
+Santi, D.V., Garrett, C.E., and Barr, P.J. (1983). On the mechanism of
+inhibition of DNA-cytosine methyltransferases by cytosine analogs.
+Cel| 33, 9-10.
+
+Schlesinger, Y., Straussman, R., Keshet, |,Farkash,S., Hecht,M.,
+Zimmerman, J Eden, E:,Yakhini, Z., Ben-Shushan,E.,Reubinoff,
+
+Cell 128, 683-692, February 23, 2007 @2007 Elsevier Inc.¡£ 691

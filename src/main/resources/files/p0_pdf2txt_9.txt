@@ -1,0 +1,72 @@
+B.E., et al. (2007). Polycomb-mediated methylation on Lys27 of histone H3 pre-marks genes for de novo methylation in cancer.¡¢Nat.
+Genet. 39, 232-236.
+
+Seligson, D.B., Horvath, S., Shi, T.,,Yu, H., Tze, S., Grunstein, M., and
+Kurdistanij, S.K. (2005). Global histone modification patterns predict
+risk of prostate cancer recurrence. Nature 435, 1262-~1266.
+
+Sharpless,N.E.,, and DePinho, R.A. (2005). Cancer: crime and punishment. Nature 436, 636-637.
+
+Suka, N, Luo, K.,, and Grunstein, M. (2002). Sir2p and Sas2p opposingly regulate acetylation of yeast histone H4 lysine16 and spreading
+of heterochromatin. Nat. Genet. 32, 378-383.
+
+Suzuki,H., Watkins, D.N.,, Jair, K.W., Schuebel, K.E., Markowitz, S.D.,
+Chen, W.D.,, Pretlow, T.P.,, Yang, B.,, Akiyama, Y., Van Engeland, M.,
+et al. (2004). Epigenetic inactivation of SFRP genes allows constitutive
+WNT signaling in colorectal cancer. Nat. Genet. 36, 417-422.
+
+Takaij, D., and Jones, P.A. (2002). Comprehensive analysis of CpG
+islands in human chromosomes 21 and 22.Proc. Natl. Acad.Sci.
+USA 99, 3740-~3745.
+
+Tamaru, H., and Selker, E.U. (2003). Synthesis of signals for de novo
+DNAmethylation in Neurospora crassa. Mol. Cell. Biol. 23, 2379-2394.
+Toyota, M.,Ahuja,N.,, Ohe-Toyota, M., Herman,J.G., Baylin, S.B.,and
+lssa,J.P.(1999).¡¢CpG island methylator phenotype in colorectal
+cancer. Proc. Natl. Acad. Sci. USA 96, 8681-~8686.
+
+Valenta, T., Lukas, J,Doubravska, L.,Fafilek,B.,and KorineK,V.
+(2006). HIC1 attenuates Wnt signaling by recruitment of TCF-4 and
+beta-catenin to the nuclear bodies. EMBO J 25, 2326-~-2337.
+valk-Lingbeek, M.E.,, Bruggeman, S.W., and van Lohuizen, M. (2004),
+Stem cells and cancer; the polycomb connection. Cell 118, 409-418.
+varambally, S.,, Dhanasekaran, S.M., Zhou, M., Barrette, T.R., KumarSinha, C., Sanda, M.G., Ghosh, D., Pienta,K.J., Sewalt, R.G., Otte,
+
+692 ¡°_Cell 128, 683-~-692, February 23, 2007 @2007 EIlsevier InC.
+
+A.P.,, et al. (2002). The polycomb group protein EZH2 is involved in
+progression of prostate cancer. Nature 419, 624-~629.
+
+Vire, E.,, Brenner, C., Deplus, R., Blanchon, L., Fraga, M., Didelot, C.,
+Morey, L.,Van Eynde, A., Bernard,D.,Vanderwinden, JM.,et a
+(2006). The Polycomb group protein EZH2 directly controls DNA
+methylation. Nature 439, 871-874.
+
+Weisenberger, D.J.,, Siegmund, K.D.,, Campan, M., Young, J, Long,
+T.|,Faasse,M.A.,Kang,G.H.,Widschwendter,M.,Weener,D.,
+Buchanan, D., et al. (2006). CpG island methylator phenotype underlies sporadic microsatellite instability and is tightly associated with
+BRAF mutation in colorectal cancer. Nat. Genet. 38, 787-793.
+
+Widschwendter, M.,Fiegl, H., Egle, D., Mueller-Holzner, E., Spizzo, G.,
+Marth, C.,, Weisenberger,DJ.,Campan, M., Young, J., Jacobs, |.,and
+Laird,P.W. (2007). Epigenetic stem cell signature in cancer.Nat.
+Genet. 39, 157-~158.
+
+Wysocka, J Swigut, T, Xiao, H, Milne, T.A., Kwon, S.Y., Landry, J.,
+Kauer, M., Tackett, AJ., Chait, B.T., Badenhorst, P., et al. (2006). A
+PHD finger of NURF couples histone H3 lysine 4 trimethylation with
+chromatin remodelling. Nature 442, 86-90.
+
+Yamashita, K., Upadhyay, S., Osada, M., Hogue, M.O., Xiao, Y., Mori,
+M., Sato, F., Meltzer, SJ, and Sidransky, D. (2002). Pharmacologic
+unmasking of epigenetically silenced tumor suppressor genes in
+esophageal squamous cell carcinoma. Cancer Cell 2, 485-495.
+
+Yamashita,K., Dai, T., Daij,Y., Yamamoto, F., and Perucho, M. (2003),
+Genetics supersedes epigenetics in colon cancer phenotype. Cancer
+Cel1 4, 121-131.
+
+Zhang, Y., Ng, H.H.,Erdjument-Bromage, H.,Tempst, P., Bird, A.,and
+Reinberg, D. (1999). Analysis of the NuRD subunits reveals a histone
+deacetylase core complex and a connection with DNA methylation.
+Genes Dev. 13, 1924-~1935.

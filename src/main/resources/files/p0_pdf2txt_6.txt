@@ -1,0 +1,113 @@
+Strategies for epigenetic therapy
+
+PR1IMARY SECONDARY
+TREATMENT TREATMENT
+Tumor
+stasis
+
+Apoptosis f
+_
+
+cCancer stem
+
+丞 d
+
+DNMT 一 一 一 一 MLH1f 一 一 Chemotherapy 一 、_
+
+_
+]!二'_[日J_「]丨:露r_[5膏
+
+Tumor antigenf 一 <Immunotherapy '-'′'郦""'_'′
+
+DNMT + HDACYI
+
+|
+\ MicroRNAs f
+
+Act synergisticall
+一 ynerg y
+Debulk tumor 一 - DNIMTi 一 - 一 \
+
+Chemotherapy
+
+pursuing new histone deacetylaseinhibitors (Bolden
+et al,, 2006).
+
+The histone methyltransferases represent another valid
+targetforthediscovery ofnew drugs that can reactivate silenced genes.Somelead compoundsarealready being investigated, and itis likely that these would activate genes
+either as single agents orin combination with other epigenetic drugs. In this regard, it is likely that the future of
+epigenetic therapy will involve the utilization of multiple
+drugs that individually affect epigenetic silencing but
+that might be expected to have synergistic effects (Figure 4). Because of the interrelationships between epigenetic processes involved in silencing (Figure 1 ) and the
+demonstrated synergistic activities of DNA methylation
+and HDAC inhibitors (Cameron et al., 1999; Suzuki et al.,
+2004; Yamashita et al., 2002), there is much interest in
+combination therapies (Figure 4). These are now being
+tested in clinical trials,as are combinations ofthese inhibitors with standard chemotherapeutic regimens. Knowing
+about the potential importance of epigenetic silencing to
+cancer stem cells, more innovative approaches to removing these cancer progenitors might be possible. Cancer
+stem cells, refractory to standard chemotherapy,might
+be induced to differentiate by chronic administration of
+epigeneticdrugs,asshown in Figure 4.Also,the activation
+ofepigeneticallysilencedtumorsuppressor miRNAs might
+allow for new treatment modalities (Saito et al., 2006),
+
+A major impediment to the use of such drugs is that
+they are nonspecific and would be anticipated to reactivate genes nondiscriminately. However, this may not be
+as much ofa problem as it seems, because DNA methyl|ation inhibitors only act on dividing cells, leaving nondividing normal cells unaffected. Also,itappears that the drugs
+preferentially activate genes that have become abnormally silenced in cancer (Karpf et al., 1999; Liang et al.,
+2002). The reason for this is not clear but may be related
+to the fact that the chromatin structure associated with
+a pathologically silenced gene may be more susceptible
+
+Figure _4.Strategies “for Epigenetic
+Therapy
+
+Epigenetic therapy with DNA methylation inhibitors (DNMTi) and HDAC inhibitors (HDACi
+is now a reality. While these agents are currently approved as single agents, combination
+therapies are likely to gain traction in the future
+because of the inherent self-reinforcing nature
+ofsilencing mechanisms (see Figure 1). Future
+breakthroughs could come from the use of
+epigenetic drugs to activate miRNAs or the
+use of drugs to target cancer stem cells after
+tumor debulking by standard chemotherapy.
+
+Cells
+
+differentiate
+
+to reactivationthanthe highly compacted chromatin state
+induced by _physiological silencing.、Nevertheless, the
+search for _ more specific targeted therapies remains
+a high priority.
+
+Conclusions
+
+As the role of epigenetics in cancer becomes clearer and
+the interrelationships between chromatin components
+are increasingly understood,we are at a good point to
+reevaluate our approaches to cancer prevention, deteCtion, and therapy. It is clear that cancer cells have global
+changes in chromatin constitution involving the whole epigenome and that entire pathways relevant to cell renewal
+are subject to epigenetic dysregulation. The exciting links
+between epigenetics and stem cell behavior are just becoming manifest and are involved at the very earliest
+stages oftumor progression. This gives an important window on therapeutic intervention through prevention strategies. The approval of three, albeit nonspecific, drugs for
+therapy of established tumors gives new promise not only
+inthisarena butalso for new prevention strategies as well
+Perhaps, as we continue to explore the molecular regulation of chromatin in both normal and neoplastic settings;,
+we will become smarter in the use ofagents to target cancerstem cells or miRNAs,forexample,to make further inroads in resetting epigenetic abnormalities and achieving
+control of cancer.
+
+ACKNOWLEDGMENTS
+
+Supported by grants R01 CA083867/R01 CA082422 (P.A.JJ) and R01
+CA04318/R0O1 CA116160 (S.B.B.) from the National Cancer Institute
+and R0O1 ES011858 from the National Institute of Environmental Health
+Sciences (S.B.B.).The authors thank G. Liang for help with the figures:.
+
+REFERENCES
+
+Akiyama,Y., Watkins, N., Suzuki, H., Jair, K.W.,van Engeland,M.,
+Esteller,M.,Sakai,H.,Ren,C.Y.,Yuasa,Y.,Herman, JG.,and
+
+Cell 128, 683-692, February 23, 2007 @2007 Elsevier Inc.。 689

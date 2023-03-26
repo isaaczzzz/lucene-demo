@@ -1,0 +1,107 @@
+Stem _¡¿.=e__
+
+Precursor
+Precursor ]
+C Ò»
+Ce||
+
+Normal
+cel| renewal
+
+16, SFFPs,
+
+d a GATA-4 and -5, APC
+
+gatekeepers
+
+Preinvasive
+cancer stem
+cel
+
+genetic
+gatekeepers
+
+APC, B-caten1n
+
+Loss of [
+
+Recurring genetic and
+epigenetic abnormalities
+
+Figure 2. An¡°Epigenetic Gatekeeper¡°Prevents Early Tumor
+Progression
+
+Epigenetic silencing of genes p16, SFRPs, GATA-4 and -5, and APC
+(red X) in stem/precursor cells of adult cell-renewal systems may serve
+to abnormally lock these cells into stem-like states that foster abnormal clonal expansion. These genes are termed¡°epigenetic gatekeepers¡° because their normal epigenetic pattern of expression
+should allow them to be activated during stem/precursor cell differentiation as needed to properly control adult cell renewal. The repertoire
+ofabnormal gene silencing then allows abnormal survivalofthe cells in
+the setting of chronic stress, such as inflammation (see Figure 3). The
+resulting preinvasive stem cells become¡°addicted¡°to the survival
+pathways involved so that selection for mutations in genetic gatekeeper genes provide an even stronger stimulus for further tumor
+progression. The bulk of the resulting tumor is composed of a subpopulation of cancer stem cells and neoplastic progeny:.
+
+sporadictumors both by such mutations, or,occasionally,
+epigenetic gene silencing (Esteller et al., 2000) (Figure 2),
+Also,methylationon one allelecan alsoserveasa¡°¡°second
+hit¡° for gene inactivation when paired with mutations on
+the opposite allele (Esteller et al., 2001).Second,four
+members of a family of genes, the SFRPs, which encode
+proteins that antagonize the action of the Wnt ligand at
+
+686 ¡° Cell 128, 683-~-692, February 23, 2007 @2007 EIlsevier InC.
+
+the cell membrane,can be hypermethylated simultaneously in the majority of preinvasive lesions for colon
+cancer (Suzuki et al.,2004). This silencing can foster
+increased Wnt pathway signaling,which may precede
+and addict cells toward evolving later mutations in the
+downstream pathway genes, APC or 6-catepin, that further activate Wnt signaling to foster colon tumorigenesis
+(Baylin and Ohm, 2006),
+
+The tumor suppressor gene, pb16ink4A, is one of the
+most common, and earliest, epigenetically mediated lossesoftumorsuppressorfunction events in human cancer.
+This silencing begins in subsets of preinvasive stages of
+breast, colon, Iung,and other cancers (Belinsky et al.,
+1998; McDermott et al.,2006; Reynolds et al:.,2006).
+Recent studies of knockout mice have revealed that
+germline loss of this gene increases stem cell life span
+(Janzen et al., 2006; Krishnamurthy et al., 2006; Molofsky
+et al., 2006), consistent with a proposed role in tumorigenesis for facilitating early abnormal clonal expansion
+of cells at risk for cancer. Indeed, loss of this gene is permissive for allowing such expanding cells to develop
+genomic instability (Foster et al., 1998; Kiyono et al,, 1998)
+and further epigenetic gene-silencing events (Reynolds
+et al,, 2006),
+
+The GATA-4 and -5 transcription factor genes are
+important for both embryonic gastrointestinal epithelial
+development and for maturation in adults (Gao et al.,
+1998; Laverriere et al., 1994; Molkentin et al., 1997) and
+are epigenetically silenced in virtually half of all ofthe preinvasive and invasive lesions for colon cancer (Akiyama
+et al., 2003). This can then impede differentiation and
+foster precursor cell expansion.
+
+Finally, an intriguing abnormal survival circuit regulated
+by epigenetic gene silencing concerns upregulation ofthe
+survival protein, SIRT1,via loss of the transcription factor
+HIC1, which is DNA hypermethylated in early preinvasive
+lesions for colon tumorigenesis and many other common
+cancers (Baylin and Ohm, 2006). HIC1, a transcriptional
+repressor complexed with SIRT1,can downmodulate
+SIRT1 promoter activity (Chen et al., 2005). The loss of
+HIC1 function potentially sets off a network of survival
+events, which are detailed later below (Figure 3),
+
+Cancer Gene Silencing Versus Genetic Mutations
+
+How does loss of function of cancer genes via epigenetic
+silencing resemble,or differ from,genetically mediated
+losses ofgene function? Gene mutations in a single tumor
+are seldom multiple in a given cell pathway, since selection for one hit appears sufficient to produce full pathway
+disruption (Hanahan and Weinberg, 2000). Certainly, this
+can sometimes also be the case for gene silencing as
+found for classic tumor suppressor genes. Thus, in the
+cyclin D-Rb pathway, silencing of pb16 does not appear
+in tumors in which the Rb gene is mutated,since both
+events powerfully disrupt cell-cycle control (Jones and
+Baylin, 2002). Similarly, mutations in the VHL gene, seminal forrenal cancer pathogenesis,occur in 609%6 oftumors,
+while the gene is DNA hypermethylated in another ~ Ò» 2006

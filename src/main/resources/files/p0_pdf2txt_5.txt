@@ -1,0 +1,105 @@
+an old, but still vital concept, that each patient¡¸s tumor is
+a heterogeneous population of cells,some of which
+have more tumorigenic and metastatic potential than
+others (Al-Hajj et al,2003). In recent years,this has
+evolved into the concept of the¡°cancer stem cell¡°that
+is believed to constitute the population that is ultimately
+responsible for perpetuating the tumor. These cells have
+many properties common to normal stem cells, but their
+exact origins remain controversial (Bjerkvig et al., 2005),
+Currently, most researchers seem to favor the view that
+a range of cells in normal cell renewing systems, from
+the ultimate stem cellstoasubsequent series of precursor
+and progenitor cells, have the potential to constitute the
+focal transformation point for individual cancers. This
+could, in fact, explain the existence of many subtypes of
+major tumor types such as lung and breast canCcers,
+
+Intheabove context,ifepigenetic cancer gene silencing
+might begin in a cancer stem cell, this would dictate that
+many such changes constitute early events in tumor progression and might have their molecular origins tied to
+stem/precursor cell population characteristics. We have
+discussed, in this review, a body of solid evidence for
+the former point and exciting concepts are emerging for
+the latter. We have mentioned earlier that long-term silencing ofgenesinembryonicstem (ES) cellsis undercontrol of the polycomb complexes of proteins (PcG), which
+actinconcertforlong-term maintenance oftranscriptional
+repression. The PcG complex,PRC2, is involved in the
+initiation of silencing and contains EZH2,the histone
+methyltransferase that places the histone methylation
+modification, HekK27me (Orlando, 2003; Pirrotta and Gross,
+2005; Ringrose and Paro, 2004; see also the Review by
+B. Schuettengruber et al., page 735 in this issue). In turn,
+this mark can attract the PRC1 complexes that maintain
+the silencing (Orlando,2003; Pirrotta and GrosSs, 2005;
+Ringrose and Paro, 2004). The PRC1 complexes contain
+chromo domain proteins such as the CBX family (Bernstein et al., 2006b) that recognize the HeK27me mark,
+and the key stem cell protein Bmil,which can silence
+the p16 gene (discussed earlier as a key gene epigenetically silenced early in cancers [Valk-Lingbeek et al., 2004:;
+varambally et al., 2002]). Steady-state levelSs of EZH2,
+Bmil, and other PcG complex members are increased in
+cancer (Bracken et al., 2003; Varambally et al.,2002),
+Enrichment of EZH2 and the H3K27me mark is a property
+of the promoters of DNA hypermethylated and silenced
+genes (McGarvey et al., 2006), as is the sirtuin deactylase
+SIRT1 (Pruitt etal.,, 2006), which has been associated with
+PRC2 complexes found in stem and cancer cells (Kuzmichev et al,, 2005),
+
+Thus, dysregulation of the PcG system potentially links
+cancer formation to stem cell biology (Valk-Lingbeek
+etal., 2004).Alarge groupofgenes is marked by PcG control in ES cells (Boyer et al., 2006; Lee et al., 2006), as wel|
+as inothermorecommitted stem/precursor cells (Bracken
+et al., 2006; see also the Review by M.A. Surani et al.,
+page747 inthisissue).Thismarking appears to hold these
+genes at a transcription level redguired by the ES cell state
+
+688 ¡°_Cell 128, 683-~-692, February 23, 2007 @2007 EIlsevier InC.
+
+until needed for up- or downregulation of the genes in
+more_committed progeny (Bernstein et al.,2006a:;
+Bracken et al., 2006). The PcG system has been incriminated in targeting DNA methylation for locking in gene
+silencing (Vire et al., 2006). If borne out in subsequent
+studies, itis appealing to consider that this targeting of silencing, in concert with other histone modifications such
+as H3K9 methylation (Tamaru and Selker, 2003), may be
+a link between stem cell biology, promoter DNA hypermethylation, and gene silencing in cancer. If, in mature cell
+renewal populations,survivalresponsestochronic inflammationandaging involvestem/precursorcells,thenthe set
+of PcG marked genes may render genes vulnerable to abnormalDNAmethylation.Indeed,very recentfindings have
+shownthatstem cell PcG targets are 20-fold more likely to
+have cancer-specific promoter methylation than nontargets, supporting a stem cell origin for cancer (J.E. Ohm
+etal., submitted; Widschwendter et al., 2007; Schlesinger
+etal., 2007).The resultanttight heritable gene silencing for
+the genes we have been discussing may then abnormally
+hold cells in stem/precursor cell states, allowing them to
+participate in early steps in neoplastic progression.
+
+The Potential of Epigenetic Therapeutics
+
+The fact that epigenetic changes are so prevalent in
+cancers and play a causative role in their biologies has
+led to the development of an entirely new therapeutic approach in which the goal is to reverse gene silencing. It is
+30 years since the first description of the remarkable
+effects of azanucleoside drugs on the differentiated state
+of cells (Constantinides et al., 1977). It is now clear that
+these compounds function as inhibitors ofthe DNA methyltransferase enzymes (Santi et al., 1983). Nevertheless,
+it has taken three decades for the drugs to be approved
+by the United States Food and Drug Administration for
+the treatment of myelodysplastic syndrome (MDS). Other
+nucleoside inhibitors of DNA methylation,including 5fluoro-2¡¸-deoxycytidine (Jones and Taylor,1980) and
+zebularine (Cheng et al., 2004),, are at an earlier stage of
+development.
+
+Given that nucleosides require incorporation into DNA
+in order to be fully effective, there have been several
+attempts to find other inhibitors of DNA methylation that
+might act without incorporation into DNA. Although procainamide (Cornacchia et al., 1988) and tea polyphenols
+(Fang et al., 2003) have been reported to be DNA methylation inhibitors, they are, at best, weak inhibitors in living
+cells (Chuang et al., 2005),and research to discover other
+inhibitors remainsa high priority. The recent description of
+the drug RG101 is a promising development of a lead
+compound that might be effective as a DNA methylation
+inhibitor (Brueckner et al., 2005),
+
+The demonstration that histone deacetylase inhibitors
+have antitumor potential (Marks et al., 2001; Minucci and
+Pelicci, 2006) has led to the development of a series of
+inhibitors. The first of these,SAHA,has just been approved by the FDA for the treatment of T cell cutaneous
+lymphoma,and several drug companies are actively

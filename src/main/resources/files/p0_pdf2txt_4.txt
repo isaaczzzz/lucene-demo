@@ -1,0 +1,106 @@
+Additional
+] Differentiation gene
+silencing
+
+/
+
+Stem/precursor cell stress survival
+
+(Jones and Baylin, 2002). Also, mutations and epigenetic
+silencing of E-cadherin are mutually exclusive in the lobular and ductal forms of breast cancer, respectively (Graff
+et al., 1995),
+
+Despite the above similarities between genetic and
+epigenetic gene loss of function in cancer, there is an
+importantemerging theme that, unlike for mutations, multiple epigenetic events may freqguently affect a single-cel
+pathway (Figure 3). These changes may function as networks in which multiple genes are not only affected within
+a pathway butcan generate alterations ofother key signaling pathways and even involve epigenetic events that
+cause other epigenetic events. Thus,these epigenetic
+abnormalities form a more nuanced, integrated disruption
+of pathways than do gene mutations to foster tumorigenesis (Figure 3).Afirst example is the previously mentioned
+silencing of the four SFRP genes and their interactions
+with Wnt pathway gene mutations. Asecond is the silencing ofp16ink4A,which, in addition to disrupting the cyclin
+D-Rb cell-cycle control pathway,may foster recruitment
+of silencing complexes through other means and cause
+abnormal DNA methylation to the promoter of a HOX
+gene (Reynolds et al., 2006) (Figure 3). It may be that
+this loss of transcriptional activation of the downstream
+genes renders them susceptible to heritable silencing
+through adoption of the types of repressive promoter
+chromatin, which will be revisited below.
+
+Perhaps one of the most complex series of events for
+networks of epigenetic abnormalities in cancers involves
+the loss of HIC1 function and the resultant potential
+survival events (Figure 2). As recently reviewed (Baylin
+and Ohm, 2006),the increases in SIRT1 may prolong cell
+survivalthroughmultiplemechanisms,including downmodulation of p53 function through deacetylation of this
+target protein. In addition,through mechanisms including
+deacetylation of the histone residue,H4K16, the yeast
+SIRT1 ortholog, Sir2, is an important participant in gene
+silencing (Guarente,2000; Kimura et al.,2002; Suka
+etal., 2002).Itappearsthatthisisalsothe case in humans,
+including those genes that are DNA hypermethylated and
+silenced in cancer (Pruitt et al., 2006). Thus, increases in
+SIRT1 appear important for silencing of genes including
+
+fGenomic instability
+and additional
+gene silencing
+
+Figure 3. Networks of Gene-Silencing
+Events
+
+Such networks help to foster early and later
+steps during neoplastic progression. Examples of early gene silencing (red X) occur at
+multiple points in key tumor control pathways
+to allow abnormal cell survival after stress
+and early clonal expansion. These epigenetic
+events are shown as provoking disruptive
+crosstalk between the pathways facilitating
+this expansion.Examples of gene-silencing
+events that foster subsequent silencing events
+(green arrows linking SIRT1 to silencing of
+GATA-4 and -5 and SFRPs) are depicted.
+
+the SFRPs, where the loss can upregulate the Wnt pathway,again facilitating cellsurvivalin tumors such as colon
+(Figure 2). Finally, HIC1 itself has been shown to normally
+sequestern, in the nucleus, transcription factors that drive
+the Wnt pathway. Thus, loss can free these for increased
+Wnt pathway function (Valenta et al., 2006),
+
+lt is then apparent that from the earliest stages of neoplastic development, epigenetic changes can, just as for
+gene mutations, perturb multiple key pathways in ways
+that foster cancer risk and evolution. As more and more
+cancer genes are discovered, which are functionally altered via epigenetic mechanisms, these pathwaySs, and
+the links between them, will undoubtedly be even further
+appreciated.
+
+The¡°Cancer Stem Cell¡° Hypothesis
+
+Much of the recent work, including information derived
+from random screens to discover DNA hypermethylated
+cancer genes and the deciphering of networks of silenced
+genes, indicate that hundreds of epigenetically silenced
+genes possibly exist even in individual tumors. While it is
+conceivable that selection for stochastic events could
+account for this, it seems unlikely that all of the changes
+observed arise in such a random fashion and then come
+todominate thetumor clone through selective advantage,
+Perhaps, just as multiple mutations arising in tumors secondary to central defects in genetic control programs,
+such as mismatch repair deficiency states, are not all
+directly important for tumor progression, the existence
+ofmultiple epigenetically silenced genes might reflect programs of epigenetic control abnormalities. Some might
+even be derived from genetic alterations that dictate
+abnormal chromatin regulation.
+
+What could account for these early epigenetic silencing
+events and the many genes that appear to be involved ,
+which may be key steps in the earliest phases of neoplastic evolution? As has been reviewed recently (Baylin and
+Ohm, 2006), one possibility concerns a role for the control
+of expression of groups of genes at the chromatin level,
+which is integral to the maintenance of cells in a stem
+cell state. The contribution of a stem cell state is integral
+to current thinking in the cancer biology field relative to
+
+Cell 128, 683-692, February 23, 2007 @2007 Elsevier Inc.¡£ 687
